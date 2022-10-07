@@ -30,7 +30,6 @@
 - 사용한 모델 (KoEDA)(BERT)
 - AutoTokenizer의 SKT의 kogpt2-base-v2로 tokenizer를 진행.
 - TFGPT2Model의 pretrained된 SKT의 kogpt2-base-v2를 사용
-- 
 
 - 무신사에서의 별점과 댓글의 반응 차이가 달라 실질적으로 별점만 신뢰할 수 없기때문에 새로운 평가지표를 만들어야 한다고 생각한 프로젝트입니다
 
