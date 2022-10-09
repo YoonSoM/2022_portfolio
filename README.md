@@ -46,7 +46,7 @@
 - 사용한 모델 (Deeplab_v3)(Unet)
 - Backbone(ResNet_50)(ResNet_101)
 - Segmentation
-- Instance Segmentation
+- Semantic Segmentation
 - 치량 파손이미지를 인식하여 인식 부위와 여부를 판단해 소비자와 기업에게 도움을 주는 프로젝트 입니다.
 
 ---
