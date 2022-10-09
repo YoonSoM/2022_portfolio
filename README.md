@@ -1,7 +1,7 @@
 ### NLP
 - Poetry Generator with GPT2 (202205-06)
 - LSTM Seq2Seq with Attention(202205)
-- Text Mining ML (202203-04)
+- Text Mining ML (2022-04,08)
 
 # 이미지처리
 
