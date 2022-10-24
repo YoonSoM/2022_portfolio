@@ -3,6 +3,12 @@
 - LSTM Seq2Seq with Attention(2022.05)
 - Text Mining ML (2022.04~08)
 
+
+CV
+DietService-Objectdetection(2022.04)
+Car Damage Detection(2022.07~08)
+Kaggel Competition : HuBMAP + HPA - Hacking The Human Body(2022.08~09)
+
 # 이미지처리
 
 ### 이미지 분류 프로젝트
