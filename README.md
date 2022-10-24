@@ -4,7 +4,7 @@
 - Text Mining ML (2022.04~08)
 
 
-### CV(Computer Vision)
+### CV
 * Car Damage Detection(2022.07~08)
 * Kaggel Competition : HuBMAP + HPA - Hacking The Human Body (2022.08~09)
 
